@@ -127,7 +127,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="border-t border-gray-200 px-6 py-6 text-center text-sm text-gray-500">
-        © {new Date().getFullYear()} Nova. All rights reserved.
+        © 2026 Nova. All rights reserved.
       </footer>
     </main>
   );
