@@ -15,32 +15,32 @@ const services = [
   {
     icon: "💻",
     title: "Website Design",
-    text: "Clean, modern and responsive websites that look great on every device.",
+    text: "We design websites which is modern and responsive in any types of device.",
   },
   {
     icon: "🎨",
     title: "Graphic Design",
-    text: "Logos, banners and social media creatives that make your brand stand out.",
+    text: "Designing banners , Logos and social media creatives that are very attractive.",
   },
   {
     icon: "📈",
     title: "Digital Marketing",
-    text: "Smart campaigns that bring the right customers to your business.",
+    text: "Smart campaigns in Facebook and Google which bring conversions.",
   },
   {
     icon: "🛒",
     title: "Shopify Website Development",
-    text: "Custom Shopify stores built to sell, from setup to launch.",
+    text: "Custom Shopify stores which can be customized according to your needs.",
   },
   {
     icon: "🔍",
     title: "SEO Optimization",
-    text: "Rank higher on Google and get more visitors without paying for ads.",
+    text: "Rank your portfolio,blogging and many types of website in a search engine.",
   },
   {
     icon: "📱",
     title: "Social Media Management",
-    text: "Consistent posting and engagement to grow your online audience.",
+    text: "Post your stories in social media platforms to attract more followers.",
   },
 ];
 
@@ -228,8 +228,7 @@ export default function Home() {
             <div>
               <h3 className="text-xl font-bold text-white">Clickora Digital</h3>
               <p className="mt-3 max-w-xs text-sm leading-6 text-gray-400">
-                We design websites, build Shopify stores and run digital
-                marketing that helps small businesses grow online.
+                We design and develop any type of website like E-commerce, Portfolio,Business, Blogs, ERP using technology like PHP, Laravel,Magento and Shopify.We also run degital campains in Facebook and Google
               </p>
             </div>
 
