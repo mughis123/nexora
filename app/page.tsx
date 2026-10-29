@@ -252,7 +252,7 @@ export default function Home() {
               <ul className="mt-3 space-y-2 text-sm text-gray-400">
                 <li>
                   <a href="mailto:hello@example.com" className="hover:text-white">
-                    hello@example.com
+                    raghibmughis@gmail.com
                   </a>
                 </li>
                 <li>9354178376</li>
